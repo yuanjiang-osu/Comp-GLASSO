@@ -1,4 +1,4 @@
-# CompoGlasso-JASA
+# CompGLASSO
 
 This paper analyzes both simulated and real data. The simulated data are generated with random number seed. The real data are OTU abundance data downloadable from the Tara Oceans Project data repository (http://taraoceans.sb-roscoff.fr/EukDiv/), including:
 
