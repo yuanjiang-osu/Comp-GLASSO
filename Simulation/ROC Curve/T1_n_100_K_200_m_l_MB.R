@@ -9,7 +9,7 @@ simulation_comp <- function(seed)
   library(MASS)
   library(glasso)
   library(huge)
-  source("Functions_180418.R")
+  source("CompoGlasso.R")
   
   n <- 100  # number of samples
   K <- 200 # number of OTUs (reference OTU not counted)
