@@ -18,4 +18,4 @@ The second real dataset is the OTU abundance data from the OSU Zebrafish Project
 - tax.tab: taxonomic hierarchy for each OTU
 - metadata.tab: meta data for samples (zebrafish)
 
-The code aggregates the OTU abudance data (asv.tab) into genus abundance data based on the taxonomic information (tax.tab), estimates the genus interaction networks separately for uninfected and infected zebrafish based on their parasite burden.
+The code aggregates the OTU abudance data (asv.tab) into genus abundance data based on the taxonomic information (tax.tab) and estimates the genus interaction networks separately for uninfected and infected zebrafish based on their parasite burden.
